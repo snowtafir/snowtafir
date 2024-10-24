@@ -1,5 +1,12 @@
-## Hi there 👋
 
+<img width="200%" src="./hr.gif" />
+
+## Hi welcome to my GitHub 👋
+
+| ✨ Ciallo ～(∠・ω< )⌒☆ <br> 🔭 I am a Pathologist. <br> 😽 My interests are medicine, computer, linsening to music, and play badminton. <br> 🌱 I’m currently learning pathology. <br> 📫 How to reach me: [🌟QQ Group](https://qm.qq.com/q/o16EarrSNO) / [E-mail](mailto:fengxuehuayue@gmail.com). | <a href="https://github.com/snowtafir"><img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=snowtafir&show_icons=true&theme=radical)&hide_border=true" alt="snowtafir's github stats" /></a> |
+| :--- | :----: |
+
+<img width="200%" src="./hr.gif" />
 <!--
 **snowtafir/snowtafir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
